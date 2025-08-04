@@ -1,0 +1,14 @@
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\bin\Debug\net9.0\InterfacesExample.exe
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\bin\Debug\net9.0\InterfacesExample.deps.json
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\bin\Debug\net9.0\InterfacesExample.runtimeconfig.json
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\bin\Debug\net9.0\InterfacesExample.dll
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\bin\Debug\net9.0\InterfacesExample.pdb
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\InterfacesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\InterfacesExample.AssemblyInfoInputs.cache
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\InterfacesExample.AssemblyInfo.cs
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\InterfacesExample.csproj.CoreCompileInputs.cache
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\InterfacesExample.dll
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\refint\InterfacesExample.dll
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\InterfacesExample.pdb
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\InterfacesExample.genruntimeconfig.cache
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\InterfacesExample\obj\Debug\net9.0\ref\InterfacesExample.dll

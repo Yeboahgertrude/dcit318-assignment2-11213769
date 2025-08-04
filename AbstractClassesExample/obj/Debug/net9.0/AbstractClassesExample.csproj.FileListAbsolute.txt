@@ -1,0 +1,14 @@
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\bin\Debug\net9.0\AbstractClassesExample.exe
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\bin\Debug\net9.0\AbstractClassesExample.deps.json
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\bin\Debug\net9.0\AbstractClassesExample.runtimeconfig.json
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\bin\Debug\net9.0\AbstractClassesExample.dll
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\bin\Debug\net9.0\AbstractClassesExample.pdb
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\AbstractClassesExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\AbstractClassesExample.AssemblyInfoInputs.cache
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\AbstractClassesExample.AssemblyInfo.cs
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\AbstractClassesExample.csproj.CoreCompileInputs.cache
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\AbstractClassesExample.dll
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\refint\AbstractClassesExample.dll
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\AbstractClassesExample.pdb
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\AbstractClassesExample.genruntimeconfig.cache
+C:\Users\dutch\OneDrive\Desktop\Assignment 2\AbstractClassesExample\obj\Debug\net9.0\ref\AbstractClassesExample.dll
